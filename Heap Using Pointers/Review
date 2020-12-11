@@ -1,0 +1,6 @@
+My Unit tests from Assignment1 were very specific for adding elements into MinHeap. I feel that my test cases covered
+all different types of scenarios for MinHeap. However, this time, I had to add more test scenarios which would
+check if elements are added in min heap and max heap. Given different functionality the code performs in Assignment 2,
+I feel my test cases now cover all scenarios when adding to the heap depending on the strategy, either min heap
+or max heap. After re-desiging the code, the code handles all the different implementations very well,
+for example- decorator pattern and null object pattern. The tests also reflect the same

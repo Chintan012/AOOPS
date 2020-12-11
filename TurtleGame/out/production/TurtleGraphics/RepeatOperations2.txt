@@ -1,0 +1,5 @@
+#side= 10
+repeat 4
+    move #side
+    turn 90
+end
